@@ -1,6 +1,6 @@
 # Bishop
 
-An android executive officer assigned to assist with your lunchtime needs. Inspired by [`ripley`](https://github.com/TabbedOut/ripley) and the ongoing camaraderie with former ~TapOut~ TabbedOut software engineers who like to eat and drink. Paying with a phone is optional.
+An [android executive officer](https://en.wikipedia.org/wiki/Bishop_(Aliens)) assigned to assist with your lunchtime needs. Inspired by [`ripley`](https://github.com/TabbedOut/ripley) and the ongoing camaraderie with former ~TapOut~ TabbedOut software engineers who like to eat and drink. Paying with a phone is optional.
 
 ## The Idea(s)
 
